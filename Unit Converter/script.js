@@ -1,5 +1,4 @@
 
-/* 1m = 3.281f l = 0.264 gallon k = 2.204pond */
 function convert()
 {   
     const value = Number(document.getElementById("input-val").value)
